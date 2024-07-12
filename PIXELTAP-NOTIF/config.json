@@ -1,0 +1,7 @@
+{
+  "secret": "3525b6e976e659608b11a604b257cc323a5768167ae6ad537d6244e948cf34f7",
+  "tgId": "1219820221",
+  "initData": "query_id=AAG9-rRIAAAAAL36tEiujBEm&user=%7B%22id%22%3A1219820221%2C%22first_name%22%3A%223332220044_Ahar%20Choiri%20Dwi%20Kusworo%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22aharchoirii%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1720674979&hash=3f304a8ef2a394de74bed9ce63116e2fc376d3b63bc5924d3353db53211a551c",
+  "telegram_bot_token": "7261947244:AAHoCr8TCloiW7y5x2IBPpZob5UHmAaaEos",
+  "telegram_chat_id": "1219820221"
+}
